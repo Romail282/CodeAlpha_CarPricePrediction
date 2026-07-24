@@ -42,7 +42,7 @@ Given details about a used car, build a regression model that accurately predict
 🚀 How to Run
 
 1. Clone this repository
-2. Open `[your_notebook_name].ipynb` in Jupyter Notebook or Google Colab
+2. Open `CodeAlpha_CarPricePrediction.ipynb` in Jupyter Notebook or Google Colab
 3. Ensure `Car Data.csv` is in the same directory
 4. Run all cells
 
